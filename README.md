@@ -13,3 +13,8 @@ Mega pack of WordPress MU (must use) plugins
 <https://github.com/liabru/jquery-match-height>
 
 - Add CSS class `match` to elements you want to match height.
+
+### Copyright Year Shortcode
+Gives the ability to add an auto-updating copyright year in your footer
+
+- Add `[copyYear]` shortcode anywhere shortcodes are allowed (some theme options don't allow shortcodes in text inputs).
