@@ -18,3 +18,8 @@ Mega pack of WordPress MU (must use) plugins
 Gives the ability to add an auto-updating copyright year in your footer
 
 - Add `[copyYear]` shortcode anywhere shortcodes are allowed (some theme options don't allow shortcodes in text inputs).
+
+### Disable Comments
+<https://github.com/solarissmoke/disable-comments-mu>
+
+- Disables all WordPress comment functionality on the entire network.
